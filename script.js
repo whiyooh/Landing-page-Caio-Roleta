@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
     const modal = document.getElementById("modalTelegram");
     const btnSim = document.getElementById("btnSim");
-    const btnNao = document.getElementById("btnNao");
+    const btnNao = document.getElementById("btnNao"); 
 
     // Congela o scroll enquanto o modal estiver aberto
     document.body.style.overflow = "hidden";
